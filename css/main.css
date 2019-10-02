@@ -1,13 +1,16 @@
 html {
   background-color: #f2f1ed;
-  font-family: 'Patua One', sans-serif;
+  font-family: Georgia, serif;
   line-height: 1.5;
 }
+
 img {
   width: 100%;
 }
+
 h1, h2 {
   color: #5d8432;
+  font-family: "Patua One", sans-serif;
   text-transform: uppercase;
 }
 figcaption {
@@ -18,6 +21,7 @@ figcaption {
 
 nav {
   font-size: 1.1125rem;
+  font-family: "Patua One", sans-serif;
   font-weight: bold;
 }
 
